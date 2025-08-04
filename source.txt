@@ -1,0 +1,8 @@
+main ( ) {
+    print ( "suma" ) ;
+    x = 5 ;
+    y = 3 ;
+    sum = x + y ;
+}
+
+
